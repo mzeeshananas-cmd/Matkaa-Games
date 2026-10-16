@@ -1,0 +1,10 @@
+{
+  "description": "Plan and organize trips effortlessly with customizable itineraries, budget tracking, and real-time collaboration for travelers and groups.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
